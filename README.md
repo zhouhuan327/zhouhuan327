@@ -6,6 +6,6 @@
 
 🌱 currently learning everything
 
-📫 How to reach me: ...
+📫 How to reach me: zsean21598@163.com
 
 
