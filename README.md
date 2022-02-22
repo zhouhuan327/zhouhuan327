@@ -1,13 +1,12 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+  <img align="right" alt="GIF" src="./gif" width="400" height="auto" />
 <br />
 
 hi, i'm zhouhuan, a rookie web developer.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="auto" />
- 
-- 🌱  I’m currently learning React, Typescript;
-- 💬 ask me about anything, i am h  appy to help;
+- 🌱 I’m currently learning React, Typescript;
+- 💬 ask me about anything, i am h appy to help;
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I ❤️ Gaming (psn: seraninrc)
 
@@ -21,11 +20,12 @@ hi, i'm zhouhuan, a rookie web developer.
 📊 **this week i spent my time on:**
 
 <!--START_SECTION:waka-->
+
 ```text
 No Activity tracked this Week
 ```
-<!--END_SECTION:waka-->
 
+<!--END_SECTION:waka-->
 
 <p align="center">
   <p>📈 my github stats</p>
