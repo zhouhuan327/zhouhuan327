@@ -4,7 +4,7 @@
 
 hi, i'm zhouhuan, a rookie web developer.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="auto" />
  
 - 🌱  I’m currently learning React, Typescript;
 - 💬 ask me about anything, i am h  appy to help;
@@ -29,6 +29,6 @@ No Activity tracked this Week
 
 <p align="center">
   <p>📈 my github stats</p>
-    <img width="350"  src="https://github-readme-stats.vercel.app/api?username=zhouhuan327&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+    <img   src="https://github-readme-stats.vercel.app/api?username=zhouhuan327&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 
 </p>
