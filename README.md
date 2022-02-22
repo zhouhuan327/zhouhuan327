@@ -29,6 +29,6 @@ No Activity tracked this Week
 
 <p align="center">
   <p>📈 my github stats</p>
-    <img style="margin-top:-90px"  src="https://github-readme-stats.vercel.app/api?username=zhouhuan327&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+    <img width="350"  src="https://github-readme-stats.vercel.app/api?username=zhouhuan327&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 
 </p>
