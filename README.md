@@ -21,11 +21,6 @@ hi, i'm zhouhuan, a rookie web developer.
 📊 **this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```text
-
-```
-
 <!--END_SECTION:waka-->
 
 
