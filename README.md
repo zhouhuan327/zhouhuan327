@@ -5,8 +5,7 @@
 hi, i'm zhouhuan, a rookie web developer.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 🔭 I’m currently working on something cool 😉;
+ 
 - 🌱  I’m currently learning React, Typescript;
 - 💬 ask me about anything, i am h  appy to help;
 - 😄 Pronouns: he/him
