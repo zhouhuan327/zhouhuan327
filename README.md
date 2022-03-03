@@ -21,11 +21,11 @@ hi, i'm zhouhuan, a rookie web developer.
 
 <!--START_SECTION:waka-->
 ```text
-Docker       56 mins         ████████▓░░░░░░░░░░░░░░░░   34.74 % 
-Python       38 mins         ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
-Markdown     19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-JSON         18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-JavaScript   14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Docker       50 mins         █████████▓░░░░░░░░░░░░░░░   39.21 % 
+Python       25 mins         █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+Markdown     19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+TypeScript   15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+JSON         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 ```
 <!--END_SECTION:waka-->
 
