@@ -21,10 +21,10 @@ hi, i'm zhouhuan, a rookie web developer.
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   1 hr 49 mins    ████████████░░░░░░░░░░░░░   47.81 % 
-JavaScript   1 hr 21 mins    █████████░░░░░░░░░░░░░░░░   35.48 % 
-Vue.js       33 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+TypeScript   1 hr 50 mins    ███████████▓░░░░░░░░░░░░░   47.33 % 
+JavaScript   1 hr 24 mins    █████████░░░░░░░░░░░░░░░░   36.18 % 
+Vue.js       33 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
 <!--END_SECTION:waka-->
 
