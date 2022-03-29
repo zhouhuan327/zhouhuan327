@@ -6,7 +6,7 @@
 hi, i'm zhouhuan, a rookie web developer.
 
 - 🌱 I’m currently learning React, Typescript;
-- 💬 ask me about anything, i am h appy to help;
+- 💬 ask me about anything, i am happy to help;
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I ❤️ Gaming (psn: seraninrc)
 
