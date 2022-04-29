@@ -21,11 +21,11 @@ hi, i'm zhouhuan, a rookie web developer.
 
 <!--START_SECTION:waka-->
 ```text
-Rust         2 hrs 45 mins   █████████▓░░░░░░░░░░░░░░░   38.26 % 
-JavaScript   2 hrs 18 mins   ████████░░░░░░░░░░░░░░░░░   32.02 % 
-TypeScript   1 hr 29 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.83 % 
-Markdown     16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-TOML         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Rust         3 hrs 34 mins   ███████████████▒░░░░░░░░░   61.57 % 
+TypeScript   1 hr 30 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.97 % 
+Markdown     16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+TOML         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+JSON         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 ```
 <!--END_SECTION:waka-->
 
