@@ -21,7 +21,8 @@ hi, i'm zhouhuan, a rookie web developer.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Rust         41 mins         █████████████████████▓░░░   87.24 % 
+TypeScript   5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
 ```
 <!--END_SECTION:waka-->
 
