@@ -21,8 +21,7 @@ hi, i'm zhouhuan, a rookie web developer.
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     1 hr 53 mins    ███████████████████████░░   92.32 % 
-JSON         8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+
 ```
 <!--END_SECTION:waka-->
 
